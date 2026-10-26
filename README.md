@@ -9,7 +9,7 @@ Key Concepts:
 4. Sequential process flow
 
 
-# 2. 💧 Water Filling Automation
+# 2. Water Filling Automation
 Simulates an automated water filling station that controls the filling of containers to a desired level. The program manages pump activation, valve control, and level sensing to automate the fill cycle.
 Key Concepts:
 
